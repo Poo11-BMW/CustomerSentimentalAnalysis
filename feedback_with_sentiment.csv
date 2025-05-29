@@ -1,0 +1,121 @@
+text,sentiment,confidence
+Zero stars if I could give it.,NEUTRAL,0.679
+I regret this purchase.,NEGATIVE,0.927
+Great experience overall!,POSITIVE,0.974
+Neither good nor bad.,NEUTRAL,0.683
+Satisfactory service.,POSITIVE,0.866
+Average experience.,NEUTRAL,0.592
+Neither good nor bad.,NEUTRAL,0.683
+Satisfactory service.,POSITIVE,0.866
+Fast delivery and perfect packaging.,POSITIVE,0.822
+Met basic requirements.,NEUTRAL,0.717
+I regret this purchase.,NEGATIVE,0.927
+Absolutely love this product!,POSITIVE,0.988
+Super intuitive and easy to use.,POSITIVE,0.939
+It does the job.,NEUTRAL,0.658
+Great experience overall!,POSITIVE,0.974
+Delivery was extremely late.,NEGATIVE,0.894
+Exceeded my expectations.,NEUTRAL,0.694
+Totally disappointed with the service.,NEGATIVE,0.976
+Great experience overall!,POSITIVE,0.974
+Highly recommend to everyone.,POSITIVE,0.929
+Amazing quality for the price.,POSITIVE,0.819
+Customer support was rude.,NEGATIVE,0.97
+Exceeded my expectations.,NEUTRAL,0.694
+Customer support was rude.,NEGATIVE,0.97
+Fast delivery and perfect packaging.,POSITIVE,0.822
+Exceeded my expectations.,NEUTRAL,0.694
+"It’s okay, nothing special.",NEUTRAL,0.618
+Zero stars if I could give it.,NEUTRAL,0.679
+Works as expected.,NEUTRAL,0.513
+Amazing quality for the price.,POSITIVE,0.819
+Not worth the money.,NEGATIVE,0.805
+Very satisfied with the performance.,POSITIVE,0.95
+Satisfactory service.,POSITIVE,0.866
+Average experience.,NEUTRAL,0.592
+Met basic requirements.,NEUTRAL,0.717
+"It’s okay, nothing special.",NEUTRAL,0.618
+The app crashes frequently.,NEGATIVE,0.949
+Delivery was extremely late.,NEGATIVE,0.894
+Met basic requirements.,NEUTRAL,0.717
+"It’s okay, nothing special.",NEUTRAL,0.618
+It does the job.,NEUTRAL,0.658
+Not worth the money.,NEGATIVE,0.805
+"Decent, but room for improvement.",NEUTRAL,0.536
+Totally disappointed with the service.,NEGATIVE,0.976
+Fast delivery and perfect packaging.,POSITIVE,0.822
+Super intuitive and easy to use.,POSITIVE,0.939
+Average experience.,NEUTRAL,0.592
+Zero stars if I could give it.,NEUTRAL,0.679
+Customer service was very helpful.,POSITIVE,0.975
+Not worth the money.,NEGATIVE,0.805
+Super intuitive and easy to use.,POSITIVE,0.939
+Delivery was extremely late.,NEGATIVE,0.894
+"Five stars, will buy again!",POSITIVE,0.899
+Delivery was extremely late.,NEGATIVE,0.894
+No major complaints.,NEUTRAL,0.599
+Absolutely love this product!,POSITIVE,0.988
+"It’s okay, nothing special.",NEUTRAL,0.618
+Product is functional.,NEUTRAL,0.742
+Works as expected.,NEUTRAL,0.513
+Average experience.,NEUTRAL,0.592
+Amazing quality for the price.,POSITIVE,0.819
+Met basic requirements.,NEUTRAL,0.717
+It broke after two uses.,NEGATIVE,0.74
+"Terrible experience, won’t return.",NEGATIVE,0.937
+Neither good nor bad.,NEUTRAL,0.683
+I regret this purchase.,NEGATIVE,0.927
+"It’s okay, nothing special.",NEUTRAL,0.618
+Met basic requirements.,NEUTRAL,0.717
+Not worth the money.,NEGATIVE,0.805
+Product is functional.,NEUTRAL,0.742
+Satisfactory service.,POSITIVE,0.866
+Met basic requirements.,NEUTRAL,0.717
+It broke after two uses.,NEGATIVE,0.74
+Average experience.,NEUTRAL,0.592
+Instructions were missing.,NEUTRAL,0.661
+Not worth the money.,NEGATIVE,0.805
+Very satisfied with the performance.,POSITIVE,0.95
+Highly recommend to everyone.,POSITIVE,0.929
+Works as expected.,NEUTRAL,0.513
+It does the job.,NEUTRAL,0.658
+Customer service was very helpful.,POSITIVE,0.975
+It broke after two uses.,NEGATIVE,0.74
+Amazing quality for the price.,POSITIVE,0.819
+"It’s okay, nothing special.",NEUTRAL,0.618
+The app crashes frequently.,NEGATIVE,0.949
+Customer service was very helpful.,POSITIVE,0.975
+Delivery was extremely late.,NEGATIVE,0.894
+It broke after two uses.,NEGATIVE,0.74
+Absolutely love this product!,POSITIVE,0.988
+Customer support was rude.,NEGATIVE,0.97
+Amazing quality for the price.,POSITIVE,0.819
+Super intuitive and easy to use.,POSITIVE,0.939
+Zero stars if I could give it.,NEUTRAL,0.679
+Super intuitive and easy to use.,POSITIVE,0.939
+Super intuitive and easy to use.,POSITIVE,0.939
+Works as expected.,NEUTRAL,0.513
+"It’s okay, nothing special.",NEUTRAL,0.618
+Fast delivery and perfect packaging.,POSITIVE,0.822
+Highly recommend to everyone.,POSITIVE,0.929
+It broke after two uses.,NEGATIVE,0.74
+"The delivery was fast, but the packaging was damaged.",NEUTRAL,0.588
+"The app interface is clean, although it crashes sometimes.",NEUTRAL,0.491
+"Support was helpful, but it took too long to get a response.",NEUTRAL,0.456
+"The product is soft and comfortable, but the stitching is poor.",NEUTRAL,0.436
+"Material quality was bad, though the design is nice.",NEUTRAL,0.486
+"I enjoyed the service, even if the wait time was long.",POSITIVE,0.929
+"While the price is high, the features are impressive.",POSITIVE,0.915
+"Good quality overall, but the charger was missing.",NEUTRAL,0.473
+"Not the best experience, yet the staff was courteous.",NEUTRAL,0.413
+"The performance was underwhelming, but it's affordable.",NEUTRAL,0.669
+"The drawback was that the material was of poor quality, but the product was good it was soft.",NEUTRAL,0.484
+"The battery life is disappointing, though the screen is amazing.",NEUTRAL,0.586
+"Although the product looked great, it didn’t function well.",NEGATIVE,0.732
+"I like the concept, but the execution needs improvement.",NEUTRAL,0.491
+"Shipping was on time, but the customer service was unresponsive.",NEGATIVE,0.794
+"Beautiful packaging, but the product inside was defective.",NEUTRAL,0.561
+"Affordable and fast, however the quality is mediocre.",NEUTRAL,0.639
+"The website is user-friendly, yet it took long to place an order.",NEUTRAL,0.487
+"Product is functional, but lacks premium feel.",NEUTRAL,0.504
+"While the overall experience was good, one item arrived broken.",NEUTRAL,0.443
