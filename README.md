@@ -1,5 +1,5 @@
 
-# 🧠 Customer Feedback Sentiment Analyzer (3-Class)
+# 🧠 Customer Feedback Sentiment Analyzer
 
 This project is a complete NLP pipeline that analyzes customer feedback and classifies it into **Positive**, **Negative**, or **Neutral** sentiment using a **pre-trained RoBERTa model** from CardiffNLP. It includes:
 
